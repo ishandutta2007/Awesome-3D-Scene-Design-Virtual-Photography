@@ -30,39 +30,28 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global 3D rendering and visualization software market is estimated at **$4.3B to $8.2B**, expanding rapidly at a 13–21% CAGR fueled by real-time rendering, virtual production, and digital twins. The sector exhibits **moderate fragmentation**: while mega-cap software conglomerates (Adobe, Autodesk, Dassault Systèmes) dominate enterprise CAD, DCC, and authoring pipelines, independent engines and visualization specialists (Chaos, Luxion, Maxon) alongside mature open-source tools (Blender) maintain strong competitive footholds across niche verticals.
 
 ## SaaS/Hosted Platforms
 
-
-
-| Product | Description | Pricing | Free Tier Limit |
-
-| :--- | :--- | :--- | :--- |
-
-| **[Adobe Substance 3D Stager](https://www.adobe.com/products/substance3d/apps/stager.html)** | Scene assembly and virtual photography studio with lighting, materials, and camera controls. | **Substance 3D Collection**: **S$80.41/mo** (incl. GST) for individuals; **S$167/mo** per license for teams (excl. GST, annual billed monthly) . | **30-day free trial** of the full Collection. No permanent free tier. |
-
-| **[KeyShot](https://www.keyshot.com/)** | Real-time ray tracing renderer with camera, lighting, and material controls for product visualization. | **Professional**: **$108.25/month** (billed annually at $1,299). **Business**: **$133.25/month** ($1,599/year) for seat management . | No free tier. Free trial available. |
-
-| **[Marmoset Toolbag](https://marmoset.co/)** | Real-time rendering suite with camera, lighting, and presentation tools for virtual photography. | **Perpetual** or **Subscription** licenses. **Individual perpetual** available; Studio and Academic tiers eligible for volume discounts (5–15% off for 5+ seats) . | **30-day free trial** for personal evaluation (one per individual) . No permanent free tier. |
-
-| **[Cinema 4D](https://www.maxon.net/)** | Professional 3D suite with Redshift GPU renderer, camera tools, and scene staging. | **€859.77/year** per license (billed annually), includes Redshift and 5 Team Render nodes . | **14-day free trial** via Maxon App. No permanent free tier. |
-
-| **[V-Ray (Chaos)](https://www.chaos.com/)** | Industry-standard photorealistic renderer with physical camera controls (f-stop, shutter, ISO). | **V-Ray Solo**: **$540/year**. **Premium**: **$718.80/year**. **ArchViz Collection**: **$838.80/year** . | **30-day free trial** available . No permanent free tier. |
-
-| **[Autodesk VRED](https://www.autodesk.com/products/vred/)** | Automotive and product visualization software with advanced virtual camera and staging tools. | **VRED Design**: **$465/month** or **$3,730/year** . **VRED Core** (renewal): ~**$7,117/year** . | No free tier. Trial available via Autodesk. |
-
-| **[Lumion](https://lumion.com/)** | Architectural rendering software with real-time visualization, camera effects, and a large asset library. | **Pro (Named-user)**: **$96/month** ($1,149/year). **Pro Floating**: **$125/month** ($1,499/year) . | No free tier. **14-day refund** window. Free onboarding session included . |
-
-| **[Maxwell Render (Next Limit)](https://www.nextlimit.com/)** | Physically based renderer known for unbiased, photorealistic output and physical camera model. | **Standard License**: **$995** (new purchase). **Render Node**: **$245** each . | No free tier. Educational licenses available at **$170** . |
+| Product | Company Valuation / Revenue | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Substance 3D Stager](https://www.adobe.com/products/substance3d/apps/stager.html)** | **~$190B+ Market Cap** (~$21.5B Rev) | Scene assembly and virtual photography studio with lighting, materials, and camera controls. | **$49.99/mo** (billed annually at $599.88/yr) or **$59.99/mo** (month-to-month) for Substance 3D Collection; **$100/mo/seat** for Teams. | **30-day free trial** with full access to the Substance 3D Collection apps and 30 asset downloads/month. No permanent free tier. |
+| **[Autodesk VRED](https://www.autodesk.com/products/vred/)** | **~$55B Market Cap** (~$5.5B Rev) | Automotive and product visualization software with advanced virtual camera and staging tools. | **$465/month** or **$3,730/year** (VRED Design single-user subscription); **~$7,117/year** (VRED Core). | **30-day free trial** of full functionality for non-commercial evaluation only (no extensions). No permanent free tier. |
+| **[Cinema 4D](https://www.maxon.net/)** | **~$1.05B (€995M Rev)** *(Parent: Nemetschek)* | Professional 3D suite with Redshift GPU renderer, camera tools, and scene staging. | **$69.91/month** (billed annually at $839/yr) or **$109/month** (month-to-month); includes integrated Redshift and 5 Team Render nodes. | **14-day free trial** via Maxon App with full commercial toolset access. No permanent free tier. |
+| **[KeyShot](https://www.keyshot.com/)** | **~$150M+ Valuation** (~$25M ARR, Luxion) | Real-time ray tracing renderer with camera, lighting, and material controls for product visualization. | **$108.25/month** (billed annually at $1,299/yr, KeyShot Studio Pro); **$133.25/month** ($1,599/yr, Studio Business). | **14-day free trial** of KeyShot Studio, restricted to 1 trial per machine per year; file saving and render queues disabled, outputs watermarked. No permanent free tier. |
+| **[V-Ray (Chaos)](https://www.chaos.com/)** | **~$130M+ Est. ARR** *(PE: TA Associates)* | Industry-standard photorealistic renderer with physical camera controls (f-stop, shutter, ISO). | **$44.90/month** (billed annually at $538.80/yr) or **$84.90/month** (V-Ray Solo); **$62.90/mo** ($754.80/yr) for Premium. | **30-day free trial** with full access to Chaos Cloud and all V-Ray integrations. No permanent free tier. |
+| **[Lumion](https://lumion.com/)** | **~€25M ARR** *(PE: Seven2 / Act-3D)* | Architectural rendering software with real-time visualization, camera effects, and a large asset library. | **$96/month** (billed annually at $1,149/yr, Pro Named-user); **$125/month** ($1,499/yr, Pro Floating). | **14-day free trial** (Lumion Pro Trial) with full feature access and reduced content library size, limited to 1 trial per PC. No permanent free tier. |
+| **[Maxwell Render (Next Limit)](https://www.nextlimit.com/)** | **~$15M–$20M Est. Rev** *(Next Limit)* | Physically based renderer known for unbiased, photorealistic output and physical camera model. | **$995** one-time perpetual license (Standard node-locked); **$245** per additional Render Node. | **30-day demo trial** with node-locked license; exports watermarked and output resolution capped at 1280x1024. No permanent free tier. |
+| **[Marmoset Toolbag](https://marmoset.co/)** | **~$2M–$3M Est. Rev** *(Marmoset LLC)* | Real-time rendering suite with camera, lighting, and presentation tools for virtual photography. | **$18.99/month** (monthly subscription) or **$399** one-time perpetual license for Individuals; **$49.99/mo/seat** or **$1,299** perpetual for Studios. | **30-day free trial** for personal evaluation (1 trial per user) with full rendering capabilities. No permanent free tier. |
 
 
 
