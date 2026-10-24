@@ -69,39 +69,39 @@ A comprehensive comparison of leading commercial tools for scene staging, materi
 
 ## 💻 Open-Source GitHub Projects
 
-Ranked in descending order by GitHub Stars ⭐. Each tool features open-source camera control, scene staging, physically based rendering, or photo mode integration:
+Ranked in descending order by GitHub_Stars ⭐. Each tool features open-source camera control, scene staging, physically based rendering, or photo mode integration:
 
-1. **[3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting)** [![GitHub Stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting?style=social&color=white)](https://github.com/graphdeco-inria/gaussian-splatting/stargazers)  
+1. **[3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting)** [![GitHub_Stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting?style=social&color=white)](https://github.com/graphdeco-inria/gaussian-splatting/stargazers)  
    **Real-time photorealistic radiance field capture and novel view synthesis.** Inria's seminal reference implementation that revolutionized virtual scene photography. Allows artists to turn sets of real-world or virtual multi-camera photos into navigable, continuous 3D scenes at interactive 1080p frame rates. Supports customizable camera trajectories, focal lengths, and virtual capture views.
 
-2. **[Blender](https://github.com/blender/blender)** [![GitHub Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
+2. **[Blender](https://github.com/blender/blender)** [![GitHub_Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
    **The premier open-source 3D suite with production-grade virtual camera simulation.** 100% free with zero feature restrictions. Features **Cycles** (path-traced photorealistic engine) and **EEVEE Next** (real-time GPU viewport) with true optical camera controls: f-stop aperture, shutter speed, ISO, custom bokeh blade counts and rotation, sensor dimensions, anamorphic ratio, and optical depth-of-field simulation.
 
-3. **[OpenUSD (Universal Scene Description)](https://github.com/PixarAnimationStudios/OpenUSD)** [![GitHub Stars](https://img.shields.io/github/stars/PixarAnimationStudios/OpenUSD?style=social&color=white)](https://github.com/PixarAnimationStudios/OpenUSD/stargazers)  
+3. **[OpenUSD (Universal Scene Description)](https://github.com/PixarAnimationStudios/OpenUSD)** [![GitHub_Stars](https://img.shields.io/github/stars/PixarAnimationStudios/OpenUSD?style=social&color=white)](https://github.com/PixarAnimationStudios/OpenUSD/stargazers)  
    **Pixar's open-source 3D scene description standard.** The universal backbone for modern scene staging, lighting setup, and virtual cinematography interchange across DCC applications, Omniverse, and real-time game engines. Includes standardized camera schemas (`UsdGeomCamera`) with focal length, horizontal/vertical aperture, clipping range, and stereo camera definitions.
 
-4. **[ArmorPaint](https://github.com/armory3d/armorpaint)** [![GitHub Stars](https://img.shields.io/github/stars/armory3d/armorpaint?style=social&color=white)](https://github.com/armory3d/armorpaint/stargazers)  
+4. **[ArmorPaint](https://github.com/armory3d/armorpaint)** [![GitHub_Stars](https://img.shields.io/github/stars/armory3d/armorpaint?style=social&color=white)](https://github.com/armory3d/armorpaint/stargazers)  
    **GPU-accelerated physically based texture painting software.** Standalone, node-based 3D painting application built with hardware ray-tracing acceleration. Perfect for creating hyper-realistic materials, micro-surface imperfections, and textures on assets before assembling them into virtual photography studios.
 
-5. **[Mitsuba 3](https://github.com/mitsuba-renderer/mitsuba3)** [![GitHub Stars](https://img.shields.io/github/stars/mitsuba-renderer/mitsuba3?style=social&color=white)](https://github.com/mitsuba-renderer/mitsuba3/stargazers)  
+5. **[Mitsuba 3](https://github.com/mitsuba-renderer/mitsuba3)** [![GitHub_Stars](https://img.shields.io/github/stars/mitsuba-renderer/mitsuba3?style=social&color=white)](https://github.com/mitsuba-renderer/mitsuba3/stargazers)  
    **Research-grade retargetable forward and inverse physically based renderer.** Developed at EPFL, Mitsuba provides an academically rigorous optical camera model, full polarized light transport simulation, spectral rendering, and automatic differentiation for inverse scene reconstruction and camera parameter optimization.
 
-6. **[appleseed](https://github.com/appleseedhq/appleseed)** [![GitHub Stars](https://img.shields.io/github/stars/appleseedhq/appleseed?style=social&color=white)](https://github.com/appleseedhq/appleseed/stargazers)  
+6. **[appleseed](https://github.com/appleseedhq/appleseed)** [![GitHub_Stars](https://img.shields.io/github/stars/appleseedhq/appleseed?style=social&color=white)](https://github.com/appleseedhq/appleseed/stargazers)  
    **Modern physically based rendering engine for animation and visual effects.** Features a fully unbiased spectral path tracer with thin lens and physical camera models, depth of field, motion blur, Disney principled BSDFs, and native integrations for Blender and Maya.
 
-7. **[OpenColorIO (OCIO)](https://github.com/AcademySoftwareFoundation/OpenColorIO)** [![GitHub Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenColorIO?style=social&color=white)](https://github.com/AcademySoftwareFoundation/OpenColorIO/stargazers)  
+7. **[OpenColorIO (OCIO)](https://github.com/AcademySoftwareFoundation/OpenColorIO)** [![GitHub_Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenColorIO?style=social&color=white)](https://github.com/AcademySoftwareFoundation/OpenColorIO/stargazers)  
    **The Academy Software Foundation's color management standard.** Essential for virtual photographers and digital cinematographers to maintain color fidelity across ACES, linear workflows, film looks, and HDR display targets from 3D viewport to final photo export.
 
-8. **[LuxCoreRender](https://github.com/LuxCoreRender/LuxCore)** [![GitHub Stars](https://img.shields.io/github/stars/LuxCoreRender/LuxCore?style=social&color=white)](https://github.com/LuxCoreRender/LuxCore/stargazers)  
+8. **[LuxCoreRender](https://github.com/LuxCoreRender/LuxCore)** [![GitHub_Stars](https://img.shields.io/github/stars/LuxCoreRender/LuxCore?style=social&color=white)](https://github.com/LuxCoreRender/LuxCore/stargazers)  
    **Unbiased physically based spectral renderer.** Designed for photorealistic visualization with physically correct camera simulation (realistic lens distortion, vignetting, bloom, sensor response, and chromatic aberration) seamlessly integrated into Blender.
 
-9. **[PhotoMode for Unity](https://github.com/UnityTechnologies/PhotoMode)** [![GitHub Stars](https://img.shields.io/github/stars/UnityTechnologies/PhotoMode?style=social&color=white)](https://github.com/UnityTechnologies/PhotoMode/stargazers)  
+9. **[PhotoMode for Unity](https://github.com/UnityTechnologies/PhotoMode)** [![GitHub_Stars](https://img.shields.io/github/stars/UnityTechnologies/PhotoMode?style=social&color=white)](https://github.com/UnityTechnologies/PhotoMode/stargazers)  
    **Official Unity virtual photography package.** Provides an extensible in-engine screenshot framework equipped with free-flying camera rigs, focal depth simulation, artistic overlays, color grading, and rule-of-thirds composition aids.
 
-10. **[CADRays](https://github.com/Open-Cascade-SAS/CADRays)** [![GitHub Stars](https://img.shields.io/github/stars/Open-Cascade-SAS/CADRays?style=social&color=white)](https://github.com/Open-Cascade-SAS/CADRays/stargazers)  
+10. **[CADRays](https://github.com/Open-Cascade-SAS/CADRays)** [![GitHub_Stars](https://img.shields.io/github/stars/Open-Cascade-SAS/CADRays?style=social&color=white)](https://github.com/Open-Cascade-SAS/CADRays/stargazers)  
     **GPU-accelerated photorealistic ray tracer for CAD and industrial design.** Built on Open CASCADE Technology (OCCT) with real-time progressive path tracing. Features interactive viewport camera manipulation, physical perspective/orthographic modes, and direct STEP/BREP/OBJ model rendering.
 
-11. **[Director's Suite](https://github.com/videotechuk/DirectorsSuite)** [![GitHub Stars](https://img.shields.io/github/stars/videotechuk/DirectorsSuite?style=social&color=white)](https://github.com/videotechuk/DirectorsSuite/stargazers)  
+11. **[Director's Suite](https://github.com/videotechuk/DirectorsSuite)** [![GitHub_Stars](https://img.shields.io/github/stars/videotechuk/DirectorsSuite?style=social&color=white)](https://github.com/videotechuk/DirectorsSuite/stargazers)  
     **In-game cinematic photo studio and scene staging editor for Red Dead Redemption 2.** Advanced virtual photography mod with full free-cam orbit, physical depth of field, environmental light/weather control, 38 custom photographic filters, super-resolution lossless capture, and real-time prop spawning.
 
 ---
