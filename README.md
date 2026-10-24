@@ -1,46 +1,58 @@
 # Awesome-3D-Scene-Design-Virtual-Photography
 
-## Top 3D Scene Design & Virtual Photography Ecosystem
+<div align="center">
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Scene-Design-Virtual-Photography/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Scene-Design-Virtual-Photography?style=social&color=white" alt="Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Scene-Design-Virtual-Photography/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-3D-Scene-Design-Virtual-Photography?style=social&color=white" alt="Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Scene-Design-Virtual-Photography/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-3D-Scene-Design-Virtual-Photography?style=flat-square" alt="Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Scene-Design-Virtual-Photography/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-3D-Scene-Design-Virtual-Photography?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+[![3D Scene Design & Virtual Photography Banner](./assets/banner.svg)](https://github.com/ishandutta2007/Awesome-3D-Scene-Design-Virtual-Photography)
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+### 🌟 Top 3D Scene Design & Virtual Photography Ecosystem 📸
 
-*Focused on Virtual Camera Control, In-Game Photography & Self-Hosted Rendering Pipelines*  
+**Curated Directory of SaaS Suites & Open-Source Projects for Virtual Camera Control, Ray Tracing & In-Game Capture**
 
-**Last updated: October 2026**
+*Empowering 3D artists, game photographers, VFX directors, and visualization engineers to master camera angles, sensor simulation, and render staging.*
 
+[![GitHub Repo stars](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-3D-Scene-Design-Virtual-Photography/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-3D-Scene-Design-Virtual-Photography/graphs/commit-activity)
+[![Updated](https://img.shields.io/badge/Last%20Updated-October%202026-blue.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-3D-Scene-Design-Virtual-Photography)
 
+</div>
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **3D Scene Design & Virtual Photography**. These tools help artists, designers, and virtual photographers compose 3D scenes, control virtual cameras, and produce photorealistic stills or cinematic captures—ranging from dedicated staging and rendering suites to in-game photo mode frameworks and open-source renderers.
+---
 
+## 📖 Table of Contents
 
+- [🔭 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🌟 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚖️ Disclaimer](#️-disclaimer)
 
-**Examples** include Adobe Substance 3D Stager, KeyShot, Marmoset Toolbag, Blender, Cinema 4D, V-Ray, Autodesk VRED, Lumion, Maxwell Render, and CADRays (the category leaders).
+---
 
+## 🔭 Sector Overview & Market Dynamics
 
+The global **3D rendering, scene staging, and visualization software market** is estimated between **$4.3B and $8.2B**, expanding rapidly at a **13–21% CAGR** driven by real-time ray tracing, neural radiance/Gaussian splatting capture, virtual film production, and spatial computing.
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, avoiding subscription fees, and controlling the virtual camera pipeline. The open-source landscape is anchored by **Blender** (the complete free suite with Cycles/EEVEE and depth-of-field camera simulation), with **CADRays** offering GPU-accelerated photorealistic rendering, and specialized virtual photography tools like **Director's Suite** and **PhotoMode (Unity)** enabling in-game camera control and capture.
+The sector exhibits **moderate fragmentation**:
+- **Enterprise Core (Ecosystem Giants)**: A consolidated group of multi-billion dollar software leaders (**Adobe**, **Autodesk**, and **Dassault Systèmes**) govern foundational DCC, CAD, and automotive staging suites.
+- **Specialized Engines & Innovators**: Independent firms (**Chaos**, **Luxion**, **Maxon**) command key architectural and product design niches.
+- **Open-Source Vanguard**: Robust community-driven engines (**Blender**, **OpenUSD**, **3D Gaussian Splatting**) empower indie creators, researchers, and game developers with unrestricted, un-metered physical camera control.
 
+---
 
+## 🏢 SaaS & Commercial Platforms
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global 3D rendering and visualization software market is estimated at **$4.3B to $8.2B**, expanding rapidly at a 13–21% CAGR fueled by real-time rendering, virtual production, and digital twins. The sector exhibits **moderate fragmentation**: while mega-cap software conglomerates (Adobe, Autodesk, Dassault Systèmes) dominate enterprise CAD, DCC, and authoring pipelines, independent engines and visualization specialists (Chaos, Luxion, Maxon) alongside mature open-source tools (Blender) maintain strong competitive footholds across niche verticals.
-
-## SaaS/Hosted Platforms
+A comprehensive comparison of leading commercial tools for scene staging, material composition, and virtual camera rendering:
 
 | Product | Company Valuation / Revenue | Description | Pricing | Free Tier Limit |
 | :--- | :--- | :--- | :--- | :--- |
@@ -53,86 +65,90 @@ The global 3D rendering and visualization software market is estimated at **$4.3
 | **[Maxwell Render (Next Limit)](https://www.nextlimit.com/)** | **~$15M–$20M Est. Rev** *(Next Limit)* | Physically based renderer known for unbiased, photorealistic output and physical camera model. | **$995** one-time perpetual license (Standard node-locked); **$245** per additional Render Node. | **30-day demo trial** with node-locked license; exports watermarked and output resolution capped at 1280x1024. No permanent free tier. |
 | **[Marmoset Toolbag](https://marmoset.co/)** | **~$2M–$3M Est. Rev** *(Marmoset LLC)* | Real-time rendering suite with camera, lighting, and presentation tools for virtual photography. | **$18.99/month** (monthly subscription) or **$399** one-time perpetual license for Individuals; **$49.99/mo/seat** or **$1,299** perpetual for Studios. | **30-day free trial** for personal evaluation (1 trial per user) with full rendering capabilities. No permanent free tier. |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+Ranked in descending order by GitHub Stars ⭐. Each tool features open-source camera control, scene staging, physically based rendering, or photo mode integration:
 
+1. **[3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting)** [![GitHub Stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting?style=social&color=white)](https://github.com/graphdeco-inria/gaussian-splatting/stargazers)  
+   **Real-time photorealistic radiance field capture and novel view synthesis.** Inria's seminal reference implementation that revolutionized virtual scene photography. Allows artists to turn sets of real-world or virtual multi-camera photos into navigable, continuous 3D scenes at interactive 1080p frame rates. Supports customizable camera trajectories, focal lengths, and virtual capture views.
 
+2. **[Blender](https://github.com/blender/blender)** [![GitHub Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
+   **The premier open-source 3D suite with production-grade virtual camera simulation.** 100% free with zero feature restrictions. Features **Cycles** (path-traced photorealistic engine) and **EEVEE Next** (real-time GPU viewport) with true optical camera controls: f-stop aperture, shutter speed, ISO, custom bokeh blade counts and rotation, sensor dimensions, anamorphic ratio, and optical depth-of-field simulation.
 
-- **[Blender](https://github.com/blender/blender)** [![GitHub Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
+3. **[OpenUSD (Universal Scene Description)](https://github.com/PixarAnimationStudios/OpenUSD)** [![GitHub Stars](https://img.shields.io/github/stars/PixarAnimationStudios/OpenUSD?style=social&color=white)](https://github.com/PixarAnimationStudios/OpenUSD/stargazers)  
+   **Pixar's open-source 3D scene description standard.** The universal backbone for modern scene staging, lighting setup, and virtual cinematography interchange across DCC applications, Omniverse, and real-time game engines. Includes standardized camera schemas (`UsdGeomCamera`) with focal length, horizontal/vertical aperture, clipping range, and stereo camera definitions.
 
-  **The complete open-source 3D suite with professional virtual camera tools.** **Fully free, no feature restrictions.** Includes **Cycles** (path-traced photorealistic renderer) and **EEVEE** (real-time rasterizer with **Depth of Field** simulation using f-stop, bokeh shape, and focus distance controls) . **Strengths**: physical camera model with f-stop, shutter, and ISO; bokeh shape control (disk through octagon); post-process and sample-based DOF methods; capable of professional virtual photography . **Trade-offs**: steeper learning curve than dedicated staging tools; requires scene setup. Best for virtual photographers wanting a complete, free alternative to Cinema 4D or KeyShot with full camera control.
+4. **[ArmorPaint](https://github.com/armory3d/armorpaint)** [![GitHub Stars](https://img.shields.io/github/stars/armory3d/armorpaint?style=social&color=white)](https://github.com/armory3d/armorpaint/stargazers)  
+   **GPU-accelerated physically based texture painting software.** Standalone, node-based 3D painting application built with hardware ray-tracing acceleration. Perfect for creating hyper-realistic materials, micro-surface imperfections, and textures on assets before assembling them into virtual photography studios.
 
+5. **[Mitsuba 3](https://github.com/mitsuba-renderer/mitsuba3)** [![GitHub Stars](https://img.shields.io/github/stars/mitsuba-renderer/mitsuba3?style=social&color=white)](https://github.com/mitsuba-renderer/mitsuba3/stargazers)  
+   **Research-grade retargetable forward and inverse physically based renderer.** Developed at EPFL, Mitsuba provides an academically rigorous optical camera model, full polarized light transport simulation, spectral rendering, and automatic differentiation for inverse scene reconstruction and camera parameter optimization.
 
+6. **[appleseed](https://github.com/appleseedhq/appleseed)** [![GitHub Stars](https://img.shields.io/github/stars/appleseedhq/appleseed?style=social&color=white)](https://github.com/appleseedhq/appleseed/stargazers)  
+   **Modern physically based rendering engine for animation and visual effects.** Features a fully unbiased spectral path tracer with thin lens and physical camera models, depth of field, motion blur, Disney principled BSDFs, and native integrations for Blender and Maya.
 
-- **[CADRays](https://github.com/Open-Cascade-SAS/CADRays)** [![GitHub Stars](https://img.shields.io/github/stars/Open-Cascade-SAS/CADRays?style=social&color=white)](https://github.com/Open-Cascade-SAS/CADRays/stargazers)  
+7. **[OpenColorIO (OCIO)](https://github.com/AcademySoftwareFoundation/OpenColorIO)** [![GitHub Stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenColorIO?style=social&color=white)](https://github.com/AcademySoftwareFoundation/OpenColorIO/stargazers)  
+   **The Academy Software Foundation's color management standard.** Essential for virtual photographers and digital cinematographers to maintain color fidelity across ACES, linear workflows, film looks, and HDR display targets from 3D viewport to final photo export.
 
-  **The GPU-accelerated photorealistic renderer for CAD and product visualization.** MIT licensed. Based on Open CASCADE Technology (OCCT), it uses **GPU path tracing** with progressive rendering—the viewport is the final render, providing immediate feedback for adjusting materials, lights, and camera . **Features**: physical camera model (perspective and orthographic), double-layered material system, STEP/IGES/BREP/OBJ/PLY/STL import . **Strengths**: runs on AMD, NVIDIA, and integrated Intel GPUs; interactive frame rates during scene setup. Best for product designers and engineers wanting photorealistic virtual photography of CAD models without commercial rendering licenses.
+8. **[LuxCoreRender](https://github.com/LuxCoreRender/LuxCore)** [![GitHub Stars](https://img.shields.io/github/stars/LuxCoreRender/LuxCore?style=social&color=white)](https://github.com/LuxCoreRender/LuxCore/stargazers)  
+   **Unbiased physically based spectral renderer.** Designed for photorealistic visualization with physically correct camera simulation (realistic lens distortion, vignetting, bloom, sensor response, and chromatic aberration) seamlessly integrated into Blender.
 
+9. **[PhotoMode for Unity](https://github.com/UnityTechnologies/PhotoMode)** [![GitHub Stars](https://img.shields.io/github/stars/UnityTechnologies/PhotoMode?style=social&color=white)](https://github.com/UnityTechnologies/PhotoMode/stargazers)  
+   **Official Unity virtual photography package.** Provides an extensible in-engine screenshot framework equipped with free-flying camera rigs, focal depth simulation, artistic overlays, color grading, and rule-of-thirds composition aids.
 
+10. **[CADRays](https://github.com/Open-Cascade-SAS/CADRays)** [![GitHub Stars](https://img.shields.io/github/stars/Open-Cascade-SAS/CADRays?style=social&color=white)](https://github.com/Open-Cascade-SAS/CADRays/stargazers)  
+    **GPU-accelerated photorealistic ray tracer for CAD and industrial design.** Built on Open CASCADE Technology (OCCT) with real-time progressive path tracing. Features interactive viewport camera manipulation, physical perspective/orthographic modes, and direct STEP/BREP/OBJ model rendering.
 
-- **[Director's Suite (RDR2)](https://github.com/videotechuk/DirectorsSuite)** [![GitHub Stars](https://img.shields.io/github/stars/videotechuk/DirectorsSuite?style=social&color=white)](https://github.com/videotechuk/DirectorsSuite/stargazers)  
-
-  **The in-game virtual photography and scene editor for Red Dead Redemption 2.** Full **Photo Mode** with tabs for Camera, World, Character, Lighting, Post, Effects, and Scene Editor . **Features**: free-fly/orbit camera, **real DOF**, time & weather control, 38 photo filters, lossless/HDR screenshots, **super-resolution capture**, up to 300 cameras with modes and transitions . **Scene Editor (Beta)**: place ~16,950 prop archetypes and spawn ~1,980 ped models with validated scenarios . Best for virtual photographers and cinematics creators working within RDR2 who want a full camera and scene control suite.
-
-
-
-- **[PhotoMode (Unity)](https://github.com/timskapp/PhotoMode)**   
-
-  **The virtual photography system for Unity projects.** Open-source framework for creating in-game screenshots and photographic effects—free-fly camera, depth of field, filters, and composition guides . **Status**: community forks have added Unity 6 and latest Cinemachine support (some effects still in progress) . Best for Unity developers wanting to add a photo mode to their games without building camera and capture systems from scratch.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Mitsuba** — Physically based renderer with a research-grade physical camera model. GPL-3.0 licensed. Best for researchers and technical artists needing an academically rigorous renderer with full camera simulation .
-
-- **LuxCoreRender** — Unbiased physically based renderer with Blender integration. Best for photorealistic virtual photography with a free, open-source engine .
-
-- **ArmorPaint** — Open-source PBR texture painting suite (now at 1.0 with ray tracing support). Best for texturing assets destined for Blender or CADRays virtual photography scenes .
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- **Blender is the only fully featured, permanently free option in this category**: no feature restrictions, professional camera controls (f-stop, bokeh, DOF), and capable of production-quality virtual photography . Dedicated tools like Stager and KeyShot offer faster workflows but require ongoing payment.
-
-- **Virtual photography is a distinct discipline**: dedicated tools like Director's Suite and PhotoMode focus on in-game camera control and capture, while Blender and CADRays focus on rendering from-scratch scenes. Choose based on whether you're photographing existing game worlds or composing new scenes.
-
-- **SaaS pricing is per-seat and annualized**: KeyShot at $1,299/year, Cinema 4D at €859.77/year, and VRED at $3,730/year represent ongoing commitments. Model your usage before committing.
-
-- **Maxwell Render's pricing is from legacy documentation**: the $995 standard license figure is from Next Limit's wiki, which may not reflect current promotions or regional pricing. Verify on the official site before purchasing .
-
-
+11. **[Director's Suite](https://github.com/videotechuk/DirectorsSuite)** [![GitHub Stars](https://img.shields.io/github/stars/videotechuk/DirectorsSuite?style=social&color=white)](https://github.com/videotechuk/DirectorsSuite/stargazers)  
+    **In-game cinematic photo studio and scene staging editor for Red Dead Redemption 2.** Advanced virtual photography mod with full free-cam orbit, physical depth of field, environmental light/weather control, 38 custom photographic filters, super-resolution lossless capture, and real-time prop spawning.
 
 ---
 
+## 🌟 Star History
 
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-3D-Scene-Design-Virtual-Photography&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-3D-Scene-Design-Virtual-Photography&type=date&legend=top-left)
 
-**Made for virtual photographers, 3D artists, product designers, and visualization specialists.**  
+---
 
-Let's make 3D scene design and virtual photography more open, camera-aware, and accessible.
+## 🤝 How to Contribute
+
+Contributions from virtual photographers, 3D artists, game developers, and rendering engineers are very welcome! 🚀
+
+1. 🍴 **Fork** the repository.
+2. 🌿 Create a new feature branch (`git checkout -b feature/new-tool`).
+3. 📝 Add or update the entry in `README.md` following the alphabetical / star-ranking format. Include:
+   - Tool name and official repository/website link.
+   - For open-source repos: include the `stargazers` badge (`?style=social&color=white`).
+   - 1–2 sentence factual description detailing virtual camera, scene design, or staging capabilities.
+4. ✅ Test links and ensure table markdown formatting remains clean.
+5. 📬 Submit a **Pull Request** with a brief summary of the added tool.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated directory helpful for your 3D workflow, virtual photography sessions, or rendering pipelines, please consider supporting the project:
+
+- ⭐ **Star this repository** to improve discoverability!
+- 🍴 **Fork and share** with your network and creative communities.
+- ☕ **Buy a coffee & sponsor**: Support ongoing research, maintenance, and open-source contributions directly on the [**GitHub Sponsors Dashboard**](https://github.com/sponsors/ishandutta2007).
+
+Thank you for helping build an open, accessible, and camera-aware 3D creative community! 🎨📸
+
+---
+
+## ⚖️ Disclaimer
+
+- This repository is a **community-curated collection** for educational and directory purposes; mentions do not constitute direct endorsements.
+- **Blender** remains the only complete, fully featured 3D creation and camera simulation suite that is permanently 100% free and open-source without artificial licensing limits.
+- **Pricing & Tier Verifications**: SaaS pricing plans, annual seat costs, and free trial constraints are tracked diligently as of October 2026. Please verify active terms on each vendor's official checkout before making enterprise commitments.
+
+---
+
+<div align="center">
+
+**Crafted with passion for virtual photographers, 3D artists, lighting leads, and digital filmmakers worldwide.** 🎬✨
+
+</div>
